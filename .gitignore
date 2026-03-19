@@ -1,0 +1,11 @@
+# IntelliJ IDEA
+.idea/
+
+# Carpeta de compilación
+out/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
